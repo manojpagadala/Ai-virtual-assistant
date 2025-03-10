@@ -65,8 +65,6 @@ Steps
 Clone the Repository:
 
 bash
-Copy
-git clone https://github.com/your-username/ai-virtual-assistant.git
 cd ai-virtual-assistant
 Install Backend Dependencies:
 
